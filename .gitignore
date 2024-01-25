@@ -1,12 +1,7 @@
 # Node modules
 node_modules
 
-# IDE/editor config files
-.idea
-*.iml
-*.project
-*.settings
-*.vscode/
-
-# Test coverage
-coverage/*
+npm-debug.log
+dist
+*.cache
+.DS_Store
